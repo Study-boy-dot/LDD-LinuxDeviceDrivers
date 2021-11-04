@@ -1,7 +1,8 @@
 LDD-LinuxDeviceDrivers
 =======
 
-
+強制移除module direct link
+https://github.com/gatieme/LDD-LinuxDeviceDrivers/tree/master/study/driver/force_rmmod/src/01-driver
 
 
 # 1  books--一些书中的源码和示例
